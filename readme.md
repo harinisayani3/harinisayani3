@@ -1,4 +1,4 @@
 ***Hi 👋***
 ***This is ***
-***Harini Sayani***
+***Harini***
 ***Trainee Software Engineer***
